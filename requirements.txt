@@ -1,0 +1,11 @@
+pyspark
+boto3
+pyodbc
+pandas
+pymongo
+uvicorn
+fastapi
+pickle-mixin
+python-dotenv
+s3fs
+requests
